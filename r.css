@@ -1,0 +1,33 @@
+.scrn{
+width: 540px;
+height: 700px;
+background: rgb(143, 50, 50);
+display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+#inpt{
+    
+    width: 532px;
+    height:300px;
+    font-size: xx-large;
+    font-weight: bold;
+    text-align: center;
+}
+#btn{
+    width: 452px;
+    height: 175px;
+    background-color: rgb(104, 101, 101);
+    display: block;
+        margin-left: auto;
+        margin-right: auto;
+        position: relative;
+        top:98px;
+        border: none;
+        border-radius: 20px;
+        font-size: large;
+        font-weight: bold;
+
+
+}
